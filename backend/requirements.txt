@@ -1,0 +1,7 @@
+fastapi==0.136.1
+uvicorn[standard]==0.48.0
+python-multipart==0.0.20
+pydantic-settings==2.14.1
+PyMuPDF==1.27.2.3
+google-genai==2.6.0
+tavily-python==0.7.24
